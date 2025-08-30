@@ -1,0 +1,7 @@
+langgraph
+groq
+apscheduler 
+requests      
+python-dotenv 
+streamlit
+
